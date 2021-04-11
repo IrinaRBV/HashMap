@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.Set;
 
-public class HashMapPerson implements HashMapI{
+public class MyHashMap implements HashMapI{
     @Override
     public void put(Person key, Company value) {
 
